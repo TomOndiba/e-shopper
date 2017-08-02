@@ -20,7 +20,7 @@
 				</div>
 			</div>
 		</div><!--/header-middle-->
-	
+
 		<div class="header-bottom"><!--header-bottom-->
 			<div class="container">
 				<div class="row">
@@ -36,7 +36,7 @@
 						<div class="mainmenu pull-left">
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="index.php" class="active">Home</a></li>
-								<li class="dropdown"><a href="#">Category<i class="fa fa-angle-down"></i></a>
+								<li class="dropdown"><a href="#">Categorys<i class="fa fa-angle-down"></i></a>
                                     <ul role="menu" class="sub-menu">
 
                                     	<!--category-productsr-->
